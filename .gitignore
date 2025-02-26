@@ -1,0 +1,8 @@
+*.log
+*.cache
+*.tmp
+.DS_Store
+node_modules/
+vendor/
+.idea/
+.vscode/
