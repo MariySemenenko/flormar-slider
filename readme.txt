@@ -45,5 +45,5 @@ For support, contact: Mashyni92@gmail.com
 
 == Credits ==
 - Developed by Maria
-- Website: [Author URI](https://dev-04.semenenko.pp.ua/)
+- Website: [Author URI](https://dev-01.semenenko.pp.ua/services/)
 
