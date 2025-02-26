@@ -57,9 +57,7 @@ function flormar_test_slider($atts) {
     $query = new WP_Query($args);
 
     $output .= '<div class="flormar-container">';
-	$output .= '<div class="flormar-inner">';
-    $output .= '<h2 class="flormar-title">המוצרים הנמכרים ביותר </h2>';
-    $output .= '</div>'; 	
+    $output .= '<h2 class="flormar-title">המוצרים הנמכרים ביותר </h2>';   	
     $output .= '<div class="flormar-slider">';	
 
     if ($query->have_posts()) {
